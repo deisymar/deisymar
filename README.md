@@ -7,7 +7,7 @@
     </em>
   </p>
 
-  [![Linkedin: deisynino](https://img.shields.io/badge/-deisynino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deisy-marsabel-niño-albarracin-816933126/)](https://www.linkedin.com/in/deisy-marsabel-niño-albarracin-816933126/)
+  [![Linkedin: deisynino](https://img.shields.io/badge/-deisynino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deisy-marsabel-niño-albarracin-816933126/)](https://www.linkedin.com/in/deisymar/)
   [![GitHub deisymar](https://img.shields.io/github/followers/deisymar?label=follow&style=social)](https://github.com/deisymar)
 </div>
 
